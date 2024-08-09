@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/db0541ef-7e1a-49f7-a716-7ccc02f97f91)# Sign Language Interpreter for Mute People
+# Sign Language Interpreter for Mute People
 
 This project is titled **Sign Language Interpreter for Mute People** and was developed by **Nooruddin Noonari** as a Final Year project at **Sukkur IBA University** under the Bachelor of Science in Computer Science program.
 
