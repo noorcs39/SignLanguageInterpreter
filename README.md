@@ -33,8 +33,18 @@ Due to time constraints and project scope, the system focuses on emergency and n
 
 ## System Flow
 (![image](https://github.com/user-attachments/assets/db0541ef-7e1a-49f7-a716-7ccc02f97f91)
-![Gesture Detection](./path-to-your-image2.png)
-![Sign Language Interpreter Interface](./path-to-your-image3.png)
+
+## Approach
+![image](https://github.com/user-attachments/assets/d4f927a0-9fb8-4092-9942-152f3d8e8f40)
+
+##Gesture Detection
+![image](https://github.com/user-attachments/assets/0c1e7485-82ac-4f04-b542-6181bed31982)
+
+##Sign Language Interpreter Interface
+![image](https://github.com/user-attachments/assets/6a3dc8b0-e63d-41ad-9a90-6b87453c6704)
+
+## Second Phase
+![image](https://github.com/user-attachments/assets/09b00405-5fba-4a9b-a1a1-3e2ed670c62c)
 
 ## How to Run the Project
 
@@ -59,8 +69,8 @@ Due to time constraints and project scope, the system focuses on emergency and n
 
 **Nooruddin Noonari**
 
-- LinkedIn: [Your LinkedIn Profile URL]
-- Email: [Your Email Address]
+
+- Email: noor.cs2@yahoo.com
 
 This project was developed as a part of my undergraduate studies in Computer Science at Sukkur IBA University.
 
