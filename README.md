@@ -35,8 +35,7 @@ Due to time constraints and project scope, the system focuses on emergency and n
 
 
 
-![System Overview](![image](https://github.com/user-attachments/assets/3cef5530-cb86-4279-9c29-48ef89b44f46)
-)
+![System Overview](![image](https://github.com/user-attachments/assets/db0541ef-7e1a-49f7-a716-7ccc02f97f91)))
 ![Gesture Detection](./path-to-your-image2.png)
 ![Sign Language Interpreter Interface](./path-to-your-image3.png)
 
