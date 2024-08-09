@@ -31,11 +31,8 @@ Due to time constraints and project scope, the system focuses on emergency and n
 - The detected gesture is then converted into text using a predefined database of sign language mappings.
 - The text is finally converted into speech and outputted through the system's speakers.
 
-## Screenshots
-
-
-
-![System Overview](![image](https://github.com/user-attachments/assets/db0541ef-7e1a-49f7-a716-7ccc02f97f91)
+## System Flow
+(![image](https://github.com/user-attachments/assets/db0541ef-7e1a-49f7-a716-7ccc02f97f91)
 ![Gesture Detection](./path-to-your-image2.png)
 ![Sign Language Interpreter Interface](./path-to-your-image3.png)
 
